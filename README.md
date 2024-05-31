@@ -1,6 +1,5 @@
 ## About Me §
 
-<!--내용 부분-->
 <h3 align="center">■ Tech Stack </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp
@@ -9,12 +8,6 @@
   <br>
   <img src="https://img.shields.io/badge/JS-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/HTML5-%23000000.svg?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp
-</div>
-<br>
-
-<h3 align="center">■ Project</h3>
-<div align="center">
-
 </div>
 <br>
 
@@ -29,14 +22,8 @@
 </div>
 <br>
 
-
-<h3 align="center">■ Contact </h3>
+<h3 align="center">■ Project</h3>
 <div align="center">
-  <a href="https://blog.naver.com/nms200299">
-    <img src="https://img.shields.io/badge/naver_blog-%23000000.svg?style=for-the-badge&logo=naver&logoColor=white">&nbsp
-  </a>
-  <a href="mailto:nms200299@naver.com.com">
-    <img
-      <img src="https://img.shields.io/badge/nms200299@naver.com-%23000000.svg?style=for-the-badge&logo=naver&logoColor=white">&nbsp
-  </a>
+
 </div>
+<br>
