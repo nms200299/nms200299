@@ -9,8 +9,9 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://simpleicons.org/icons/c.svg" width="30" height="30">&nbsp
+  <img src="https://simpleicons.org/icons/python.svg" width="30" height="30">&nbsp
   <img src="https://simpleicons.org/icons/visualbasic.svg" width="30" height="30">&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://simpleicons.org/icons/javascript.svg" width="30" height="30">&nbsp
 </div>
 
 <div align="center">
