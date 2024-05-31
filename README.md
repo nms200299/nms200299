@@ -9,10 +9,6 @@
   <br>
   <img src="https://img.shields.io/badge/JS-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/HTML5-%23000000.svg?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=windowsterminal&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=Linux&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/ps-%23000000.svg?style=for-the-badge&logo=powershell&logoColor=white">&nbsp
 </div>
 <br>
 
