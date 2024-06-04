@@ -22,8 +22,4 @@
 </div>
 <br>
 
-<h3 align="center">■ Project</h3>
-<div align="center">
-
-</div>
 <br>
